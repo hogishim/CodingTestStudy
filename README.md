@@ -5,7 +5,7 @@ Original Code
 https://github.com/ndb796/python-for-coding-test
 <br/><br/>
 My Code
-
+[깃허브 폴더](Code/Greedy)
 
 ### 정리
 

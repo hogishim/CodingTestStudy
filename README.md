@@ -1,13 +1,16 @@
 # 👨🏻‍💻 Coding Test Study
 
 ###  이것이 취업을 위한 코딩 테스트다 with 파이썬
-Original Code
+😎Original Code
 https://github.com/ndb796/python-for-coding-test
 <br/><br/>
-My Code
+😢My Code
 [깃허브 폴더](Code)
 
-### 정리
+<br /><br />
+<hr />
+
+### 😱정리
 
 [Ch00. 파이썬 기초](Study/CodingTestPython/Basics.md)
 
